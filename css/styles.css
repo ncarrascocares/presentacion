@@ -163,7 +163,13 @@ a {
   text-decoration: none;
   background-color: transparent;
 }
-a:hover {
+a:hover{
+  color: #824027;
+  text-decoration: underline;
+}
+
+/*Efecto sobre los iconos en la seccion skills*/
+li:hover{
   color: #824027;
   text-decoration: underline;
 }
